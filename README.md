@@ -1,2 +1,2 @@
-# 404-Error-PAGE
+# 404-Error-Page
 devChallenges.io "Responsive Web Developer" path, challenge 1
