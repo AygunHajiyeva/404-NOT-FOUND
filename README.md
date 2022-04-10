@@ -1,2 +1,5 @@
-# 404-Error-Page
-devChallenges.io "Responsive Web Developer" path, challenge 1
+
+A challenge from https://devchallenges.io/
+Built with HTML and CSS.
+
+
